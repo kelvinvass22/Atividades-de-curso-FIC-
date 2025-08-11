@@ -1,0 +1,48 @@
+.body{
+    margin: 0;
+    padding: 0%;
+    font-family: 'courier', courier, monospace;
+    font-weight: bold;
+}
+
+#cabecalho{
+    background-color: cadetblue;
+    text-align: center;
+    color: white;
+}
+
+#corpo{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#rodape{
+    background-color: cadetblue;
+    text-align: center;
+    color: white;
+    width: 100%;
+    position: fixed;
+    padding: 10px 0;
+}
+/*
+.header{
+    background-color: cadetblue;
+    text-align: center;
+}
+.conteudo-principal{
+    text-align: center;
+}
+.sobre{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
+.habilidades{
+    color:aqua;
+    font-size: 30px;
+}
+.rodape{
+    background-color: cadetblue;
+    text-align: center;
+    text-decoration: underline;
+}
+    */
