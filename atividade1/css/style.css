@@ -1,0 +1,80 @@
+.body{
+    margin: 0;
+    padding: 0%;
+    font-family: 'courier', courier, monospace;
+    font-weight: bold;
+    
+}
+
+#cabecalho{
+    background-color: #3fad7f;
+    text-align: center;
+    color: white;   
+    padding: 17px;
+}
+
+#corpo { 
+    text-align: center;
+    padding: 20px;
+    background-color: #b4b4b4;
+}
+
+.apresentacao {
+    font-size: 18px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.tabela table,
+.tabela th,
+.tabela td {
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+
+.tabela table {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.tabela th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.tabela tr:nth-child(even) {
+    background-color: #e2e2e2;
+}
+
+
+#rodape{
+    background-color: #3fad7f;
+    text-align: center;
+    color: white;
+    width: 100%;
+    padding: 10px;
+}
+/*
+.header{
+    background-color: cadetblue;
+    text-align: center;
+}
+.conteudo-principal{
+    text-align: center;
+}
+.sobre{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
+.habilidades{
+    color:aqua;
+    font-size: 30px;
+}
+.rodape{
+    background-color: cadetblue;
+    text-align: center;
+    text-decoration: underline;
+}
+    */
